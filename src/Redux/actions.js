@@ -1,0 +1,3 @@
+export const ADD_DATA = "ADD_DATA";
+export const CHANGE_PINCODE = "CHANGE_PINCODE";
+export const SELECTED_WIDGET = "SELECTED_WIDGET";
